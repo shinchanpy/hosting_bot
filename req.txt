@@ -1,0 +1,4 @@
+pyTelegramBotAPI>=4.36.1,<5
+flask
+psutil
+requests
